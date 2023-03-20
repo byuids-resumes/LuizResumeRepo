@@ -2,7 +2,7 @@
 layout: cv
 title: Luiz Honorio's Resume
 ---
-# Brigham Young
+# Luiz Honorio
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
