@@ -21,7 +21,9 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Skills
 •	Advanced: Power BI, Python (Pandas, Seaborn, Altair, SKLearn, TensorFlow), Microsoft Office
+
 •	Competent: SQL, Bloomberg Terminal, R (tidyverse)
+
 •	Experience: Tableau, JavaScript, Linux
 
 
