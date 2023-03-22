@@ -5,7 +5,7 @@ title: Luiz Honorio's Resume
 # Luiz Honorio
 
 <div id="webaddress">
-<a href="luizgabriel.l.h@gmail.com">Email</a>
+<a href="luizgabriel.l.h@gmail.com">luizgabriel.l.h@gmail.com</a>
 | <a href="linkedin.com/in/luiz-gl-honorio">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
