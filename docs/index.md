@@ -19,60 +19,47 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.7 Major GPA
 
+## Skills
+•	Advanced: Power BI, Python (Pandas, Seaborn, Altair, SKLearn, TensorFlow), Microsoft Office
+•	Competent: SQL, Bloomberg Terminal, R (tidyverse)
+•	Experience: Tableau, JavaScript, Linux
+
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`August – December 2022`
+__Alturas - Data Analyst__, Eagle, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+•	Developed a cash projection model in Excel by analyzing historical cash inflows and outflows, saving thousands of dollars in possible debt for the subsidiaries
+•	Created a cash dashboard in Power BI using the subsidiaries cash projections, providing greater visibility into the current cash position for the consolidated companies
+•	Automated the financial reporting system, saving the CFO days of work
+•	Developed an Economic Dashboard using APIs to automatically feed macroeconomic indicators that were important to the business
 
-### Data Science Lead
+### Data Analyst
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`January 2023 - Present`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+•	Automated the process of importing data from Qualtrics (a survey platform) to Power BI, by creating a Python script to pull the data from an API, saving the whole team hours of work
+•	Created and kept Power BI dashboards to assist the student mentors keep track of their performance
+•	Researched with my team on how to create lead indicators (KPIs) for each subdivision within the Student Success Department, improving the department’s overall performance indicator
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+### Economics Lab Assistant
+`January - July 2022`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+•	Administered a room with Bloomberg terminals and helped students with issues with the technology and their assignments
+•	Helped about 10 students weekly to master their Macro and Microeconomics class
 
 ### Data Science Consulting Team
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`April - July 2022`
+__LyteWorx__, Lead
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
+•	Led a team of about 7 people to create a program that assigns latitude and longitude when provided text from a news article or website
+•	Annotated and tokenized the data to feed it into a machine learning algorithm
 
 
 <!-- ### Footer
