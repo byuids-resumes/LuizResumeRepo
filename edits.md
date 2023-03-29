@@ -1,0 +1,4 @@
+
+Format is awesome! I liked that you managed to keep the layout from the Brigham Young resume, with the sections broken down on the left. Two suggestions:
+    1: Maybe right justifty the locations for each position. That's just something really common on resumes that I've seen, but it's comes down to preference I think
+    2: I really like the idea of your Skills section and the way you classify your profficiency. My only suggestion would be the layout. Instead of "Advanced: Power BI, Python (Pandas, Seaborn, Altair, SKLearn, TensorFlow), Microsoft Office", maybe make the "Advanced" part a header like the job title and list everytyhing else below. You don't want too many bullets of course since that will make it too long but just something to break it up so the lines don't run together.
