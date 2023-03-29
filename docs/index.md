@@ -7,7 +7,7 @@ title: Luiz Honorio's Resume
 <div id="webaddress">
 <a href="luizgabriel.l.h@gmail.com">luizgabriel.l.h@gmail.com</a>
 | <a href="linkedin.com/in/luiz-gl-honorio">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://github.com/byuids-resumes/LuizResumeRepo">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
